@@ -1,0 +1,27 @@
+
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿   ⢠⣤⣶⣶⣦⡀                                              ⣿
+ ⣿   ⢸⣿⠋⠙⠛⠛⢿⣷      g i t - s p e c t r e                  ⣿
+ ⣿    ⠙⠶⠶⠶⠶⠶⠛⠋   the haunted git history & digital séance  ⣿
+ ⣿                                                             ⣿
+ ⣿        ·˚🕯️ git-spectre · the dead read your diffs · 🕯️·˚            ⣿
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+╭───────────────────────── HAUNT INDEX — demo-spectre ─────────────────────────╮
+│ 34 / 100 — Actively Haunted 😱 — cold spots in the blame                     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Reading                       ┃ Value ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━┩
+│ Total graves (commits)        │     2 │
+│ Distinct spirits (authors)    │     2 │
+│ Witching-hour commits (00–05) │     1 │
+│ Cursed brief messages         │     1 │
+│ Colossal commits (500+ lines) │     0 │
+│ 🕯️ TODO ghosts                │     2 │
+│ 🥀 Commented-out corpses      │     2 │
+│ 🪦 Deprecated tombstones      │     1 │
+│ 🧟 Zombie branches            │     1 │
+└───────────────────────────────┴───────┘
+  ✦ 1 commit(s) made between midnight and dawn.
+  ✦ 1 zombie branch(es) never merged, never mourned.

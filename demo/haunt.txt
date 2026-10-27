@@ -1,0 +1,30 @@
+
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿   ⢠⣤⣶⣶⣦⡀                                              ⣿
+ ⣿   ⢸⣿⠋⠙⠛⠛⢿⣷      g i t - s p e c t r e                  ⣿
+ ⣿    ⠙⠶⠶⠶⠶⠶⠛⠋   the haunted git history & digital séance  ⣿
+ ⣿                                                             ⣿
+ ⣿        ·˚🕯️ git-spectre · the dead read your diffs · 🕯️·˚            ⣿
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+engine: standalone · everything stays on this machine
+
+╭───── 834f3bf · Bob Cursed · 31 Oct 2024 03:14 · "wip" 1 file(s), +6/-0 ──────╮
+│ The 3 AM Poltergeist 🕒                                                      │
+│    ✦ This was written at 03:14 AM-ish. The dead keep those hours. So,        │
+│ apparently, did Bob Cursed.                                                  │
+│    ✦ The commit message reads 'wip'. Archaeologists of the future will weep. │
+│    ✦ This grave dates to 31 Oct 2024. Whatever problem it solved, the        │
+│ problem has since been reborn twice.                                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+╭─ 0900870 · Ada Lovelace · 15 Mar 2024 14:00 · "feat: add the engine that run─╮
+│ The Weekend Wraith 📅                                                        │
+│    ✦ Ada Lovelace wrote this on a Friday. A Friday! Some spirits never       │
+│ learned mercy.                                                               │
+│    ✦ 'feat: add the engine that runs' — said with such confidence, 2 lines   │
+│ ago. History disagrees with the confidence.                                  │
+│    ✦ Ada Lovelace left this on 15 Mar 2024 and never returned. Some say they │
+│ still review PRs in the cloud.                                               │
+╰──────────────────────────────────────────────────────────────────────────────╯
+

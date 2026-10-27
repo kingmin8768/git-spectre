@@ -1,0 +1,29 @@
+
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿   ⢠⣤⣶⣶⣦⡀                                              ⣿
+ ⣿   ⢸⣿⠋⠙⠛⠛⢿⣷      g i t - s p e c t r e                  ⣿
+ ⣿    ⠙⠶⠶⠶⠶⠶⠛⠋   the haunted git history & digital séance  ⣿
+ ⣿                                                             ⣿
+ ⣿        ·˚🕯️ git-spectre · the dead read your diffs · 🕯️·˚            ⣿
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+engine: standalone · the circle is closed · nothing leaves this machine
+
+🕯️ Candle lit. Summoning the spirit of Bob Cursed…
+
+╭───────────────── SÉANCE — Bob Cursed (departed 31 Oct 2024) ─────────────────╮
+│ summoned via commit 834f3bf: "wip"                                           │
+│                                                                              │
+│   Q: Why did you write this?                                                 │
+│   A: It was 03:14. I thought I was brilliant. I was merely awake.            │
+│   Q: What were you thinking at the time?                                     │
+│   A: The build was broken. The coffee was gone. The code wrote itself and I  │
+│ signed it.                                                                   │
+│   Q: Do you repent?                                                          │
+│   A: I repent of nothing at 03:14. Repentance requires consciousness.        │
+│   Q: Who else touched what you touched?                                      │
+│   A: Top spirit: Bob Cursed holds 6 lines of 'cursed.py'. Their fingerprints │
+│ are everywhere. So are mine.                                                 │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+The candle is out. The spirit returns to the blame.

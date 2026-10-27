@@ -1,0 +1,9 @@
+# The ghosts do not deserve your code, but they follow it anyway.
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+OFRENDA.md

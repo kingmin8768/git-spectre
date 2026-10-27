@@ -1,0 +1,26 @@
+
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿   ⢠⣤⣶⣶⣦⡀                                              ⣿
+ ⣿   ⢸⣿⠋⠙⠛⠛⢿⣷      g i t - s p e c t r e                  ⣿
+ ⣿    ⠙⠶⠶⠶⠶⠶⠛⠋   the haunted git history & digital séance  ⣿
+ ⣿                                                             ⣿
+ ⣿        ·˚🕯️ git-spectre · the dead read your diffs · 🕯️·˚            ⣿
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+Exhumation complete: 6 soul(s) found in 'demo-spectre'.
+
+                                  The Exhumed                                   
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Kind              ┃ Where       ┃ Remains                                    ┃
+┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 🕯️ todo           │ cursed.py:1 │ # TODO: fix this before the demo           │
+│ 🥀 commented_code │ cursed.py:2 │ # def old_summoning():                     │
+│ 🥀 commented_code │ cursed.py:3 │ #     return 'spirit'                      │
+│ 🪦 deprecated     │ cursed.py:4 │ @deprecated                                │
+│ 🕯️ todo           │ cursed.py:6 │ return None  # FIXME: it returns nothing,  │
+│                   │             │ like the void                              │
+│ 🧟 zombie_branch  │ doomed      │ doomed                                     │
+└───────────────────┴─────────────┴────────────────────────────────────────────┘
+
+The altar has been raised: /tmp/demo-spectre/OFRENDA.md
+Haunt Index: 34/100 — Actively Haunted 😱 — cold spots in the blame
